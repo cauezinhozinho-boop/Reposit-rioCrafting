@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a8ae0309eaeb54b8376c14dea550c2, type: 3}
+  m_Name: CraftingRecipeCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipeCatalog
+  recipes:
+  - {fileID: 11400000, guid: ac68a00ae7680ac4d9cc59d19243cb92, type: 2}
+  - {fileID: 11400000, guid: 42e654a62bf6db54e85ea18515df06c7, type: 2}
+  - {fileID: 11400000, guid: 6342c56256fdbc74189e85d59e482dae, type: 2}
+  - {fileID: 11400000, guid: 1b24715a396037e4cb79f0278af2126b, type: 2}
+  - {fileID: 11400000, guid: 67120d32c5171ce47829396126662a0b, type: 2}
+  - {fileID: 11400000, guid: f77430d34a5f14643ae043f6186f29bc, type: 2}
